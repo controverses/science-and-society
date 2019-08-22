@@ -3,4 +3,6 @@
 
 ## Débats, arènes et ressources
 
-Groupes 1 et 18 | **Les rats à Paris : invasion et cohabitation** | Espèces | Paris |
+Groupes | Sujet de débat | Arène thématique (vendredi) | Arène territoriale (samedi) |
+1 & 17 | **Les rats à Paris : invasion et cohabitation** | Espèces | Paris |
+2, 6 & 18 | **Printemps silencieux franciliens ? Recenser et protéger les populations d’oiseaux** | Espèces | Paris |
