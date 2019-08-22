@@ -1,4 +1,4 @@
-![Assises Franciliennes de la Biodiversité](https://github.com/controverses/biodiversite/blob/master/media/Titre_AssisesBiodiversiteChouette.jpg)
+![Assises Franciliennes de la Biodiversité](media/Titre_AssisesBiodiversiteChouette.jpg)
 
 ## Welcome to GitHub Pages
 
