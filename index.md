@@ -11,3 +11,4 @@ Groupes | Sujet de débat et dossier | Arène thématique (vendredi) | Arène te
 5 et 21 | La nouvelle fable des abeilles: des insectes au service du bien commun | L'évolution des écosystèmes franciliens | Grande couronne |
 6 | [Printemps silencieux franciliens? Recenser et protéger les populations d’oiseaux](resources/printemps-silencieux-franciliens.pdf) | L'évolution des écosystèmes franciliens | Grande couronne |
 7 et 22 | [L'agriculture urbaine peut-elle être un moyen de reconquête de la biodiversité en ville?](resources/agriculture-urbaine.pdf) | L'entretien de milieux favorables à la biodiversité | Paris |
+8 et 23 | [Paris, parc naturel urbain en 2030?](resources/paris-parc-naturel-urbain-2030.pdf) | L'entretien de milieux favorables à la biodiversité | Paris |
