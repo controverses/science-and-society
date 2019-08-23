@@ -14,7 +14,7 @@ Groupes | Sujet de débat et dossier | Arène thématique (vendredi) | Arène te
 8 et 23 | [Paris, parc naturel urbain en 2030?](resources/paris-parc-naturel-urbain-2030.pdf) | L'entretien de milieux favorables à la biodiversité | Paris |
 9 et 24 | [Romainville : la forêt peut-elle trouver sa place en ville?](resources/romainville-place-foret-en-ville.pdf) | L'entretien de milieux favorables à la biodiversité | Petite couronne |
 10 et 25 | [Les milieux humides, poumons menacés des écosystèmes?](resources/milieux-humides-poumons-menaces.pdf) | L'entretien de milieux favorables à la biodiversité | Grande couronne |
-11 et 26 | Les parcs régionaux franciliens protègent-ils la biodiversité? | L'entretien de milieux favorables à la biodiversité | Grande couronne |
+11 et 26 | [Les parcs naturels régionaux franciliens et la biodiversité](resources/parcs-naturels-regionaux-franciliens.pdf) | L'entretien de milieux favorables à la biodiversité | Grande couronne |
 12 et 27 | [Trame noire et ville lumière](resources/trame-noire-ville-lumiere.pdf) | L'empreinte écologique des activités humaines | Paris |
 13 et 28 | [L'empoisonnement de la nature: la pollution industrielle des sols et de l'eau](resources/empoisonnement-de-la-nature.pdf) | L'empreinte écologique des activités humaines | Petite couronne |
 14 et 29 | [Le Grand Paris Express, métro écologique?](resources/grand-paris-express-metro-ecologique.pdf) | L'empreinte écologique des activités humaines | Petite couronne |
