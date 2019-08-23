@@ -19,4 +19,4 @@ Groupes | Sujet de débat et dossier | Arène thématique (vendredi) | Arène te
 13 et 28 | [L'empoisonnement de la nature: la pollution industrielle des sols et de l'eau](resources/empoisonnement-de-la-nature.pdf) | L'empreinte écologique des activités humaines | Petite couronne |
 14 et 29 | [Le Grand Paris Express, métro écologique?](resources/grand-paris-express-metro-ecologique.pdf) | L'empreinte écologique des activités humaines | Petite couronne |
 15 et 30 | EuropaCity: jusqu'où va la ville? Les débats sur l'artificialisation des sols | L'empreinte écologique des activités humaines | Grande couronne |
-16 et 31 | [Quel modèle agricole pour favoriser la biodiversité ?](resources/quel-modele-agricole-pour-la-biodiversite.pdf) | L'empreinte écologique des activités humaines | Grande couronne |
+16 et 31 | [Quel modèle agricole pour favoriser la biodiversité?](resources/quel-modele-agricole-pour-la-biodiversite.pdf) | L'empreinte écologique des activités humaines | Grande couronne |
