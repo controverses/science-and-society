@@ -3,7 +3,7 @@
 
 ## Débats, arènes et ressources
 
-Groupes | Sujet de débat et dossier pdf | Arène thématique (vendredi) | Arène territoriale (samedi) |
+Groupes | Sujet de débat et dossier | Arène thématique (vendredi) | Arène territoriale (samedi) |
 1 et 17 | [Les rats à Paris: invasion et cohabitation](resources/rats-paris.pdf) | L'évolution des écosystèmes franciliens | Paris |
 2 et 18 | [Printemps silencieux franciliens? Recenser et protéger les populations d’oiseaux](resources/printemps-silencieux-franciliens.pdf) | L'évolution des écosystèmes franciliens | Paris |
 3 et 19 | [Origines et mutations de la flore francilienne](resources/origines-mutations-flore-francilienne.pdf) | L'évolution des écosystèmes franciliens | Petite couronne |
