@@ -12,3 +12,11 @@ Groupes | Sujet de débat et dossier | Arène thématique (vendredi) | Arène te
 6 | [Printemps silencieux franciliens? Recenser et protéger les populations d’oiseaux](resources/printemps-silencieux-franciliens.pdf) | L'évolution des écosystèmes franciliens | Grande couronne |
 7 et 22 | [L'agriculture urbaine peut-elle être un moyen de reconquête de la biodiversité en ville?](resources/agriculture-urbaine.pdf) | L'entretien de milieux favorables à la biodiversité | Paris |
 8 et 23 | [Paris, parc naturel urbain en 2030?](resources/paris-parc-naturel-urbain-2030.pdf) | L'entretien de milieux favorables à la biodiversité | Paris |
+9 et 24 | [Romainville : la forêt peut-elle trouver sa place en ville?]() | L'entretien de milieux favorables à la biodiversité | Petite couronne |
+10 et 25 | [Les milieux humides, poumons menacés des écosystèmes?]() | L'entretien de milieux favorables à la biodiversité | Grande couronne |
+11 et 26 | [Les parcs régionaux franciliens protègent-ils la biodiversité?]() | L'entretien de milieux favorables à la biodiversité | Grande couronne |
+12 et 27 | [Trame noire et ville lumière]() | L'empreinte écologique des activités humaines | Paris |
+13 et 28 | [L'empoisonnement de la nature: la pollution industrielle des sols et de l'eau]() | L'empreinte écologique des activités humaines | Petite couronne |
+14 et 29 | [La responsabilité environnementale du Grand Paris Express]() | L'empreinte écologique des activités humaines | Petite couronne |
+15 et 30 | EuropaCity: jusqu'où va la ville? Les débats sur l'artificialisation des sols | L'empreinte écologique des activités humaines | Grande couronne |
+16 et 21 | [Quel modèle agricole pour favoriser la biodiversité ?]() | L'empreinte écologique des activités humaines | Grande couronne |
