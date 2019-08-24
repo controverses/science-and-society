@@ -3,9 +3,9 @@
 
 ## Débats, arènes et ressources
 
-*En plus des ressources propres à chaque groupe, tou-te-s les étudiant-e-s préparent le lancement de la simulation le jeudi 29/08 soir à partir d'une lecture du dossier [Europacity: jusqu'où va la ville ?](resources/europacity.pdf).*
+*En plus des ressources propres à chaque groupe, tou-te-s les étudiant-e-s préparent le lancement de la simulation le jeudi 29/08 à partir d'une lecture du dossier [Europacity: jusqu'où va la ville ?](resources/europacity.pdf).*
 
-Groupes | Débat en atelier et dossier de ressources | Arène thématique (vendredi 30/08) | Arène territoriale (samedi 31/08) |
+Groupes | Débat en atelier et dossier pdf | Arène thématique (vendredi 30/08) | Arène territoriale (samedi 31/08) |
 1 et 17 | [Les rats à Paris: invasion et cohabitation](resources/rats-paris.pdf) | L'évolution des écosystèmes franciliens | Paris |
 2 et 18 | [Printemps silencieux franciliens? Recenser et protéger les populations d’oiseaux](resources/printemps-silencieux-franciliens.pdf) | L'évolution des écosystèmes franciliens | Paris |
 3 et 19 | [Origines et mutations de la flore francilienne](resources/origines-mutations-flore-francilienne.pdf) | L'évolution des écosystèmes franciliens | Petite couronne |
