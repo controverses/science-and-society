@@ -1,6 +1,6 @@
 ![Assises Franciliennes de la Biodiversité](media/Titre_AssisesBiodiversiteChouette.jpg)
 
-Pour la pré-rentrée 2019 du campus de Paris de Sciences Po, le programme FORCCAST organise les [Assises franciliennes de la biodiversité](resources/presentation-assises-franciliennes-biodiversite.pdf)
+Pour la pré-rentrée 2019 du campus de Paris de Sciences Po, le programme FORCCAST organise les [Assises franciliennes de la biodiversité](resources/presentation-assises-franciliennes-biodiversite.pdf).
 
 ## Débats, arènes et ressources
 
