@@ -11,7 +11,7 @@ Groupes | Débat en atelier et dossier | Arène thématique (vendredi) | Arène 
 2 et 18 | [Printemps silencieux franciliens? Recenser et protéger les populations d’oiseaux](resources/printemps-silencieux-franciliens.pdf) | L'évolution des écosystèmes franciliens | Paris |
 3 et 19 | [Origines et mutations de la flore francilienne](resources/origines-mutations-flore-francilienne.pdf) | L'évolution des écosystèmes franciliens | Petite couronne |
 4 et 20 | [Les aéroports, hotspots de la biodiversité locale?](resources/aeroports-hotspots-biodiversite-locale.pdf) | L'évolution des écosystèmes franciliens | Petite couronne |
-5 et 21 | La nouvelle fable des abeilles: des insectes au service du bien commun | L'évolution des écosystèmes franciliens | Grande couronne |
+5 et 21 | [La nouvelle fable des abeilles: des insectes au service du bien commun](resources/nouvelle-fable-des-abeilles.pdf) | L'évolution des écosystèmes franciliens | Grande couronne |
 6 | [Printemps silencieux franciliens? Recenser et protéger les populations d’oiseaux](resources/printemps-silencieux-franciliens.pdf) | L'évolution des écosystèmes franciliens | Grande couronne |
 7 et 22 | [L'agriculture urbaine peut-elle être un moyen de reconquête de la biodiversité en ville?](resources/agriculture-urbaine.pdf) | L'entretien de milieux favorables à la biodiversité | Paris |
 8 et 23 | [Paris, parc naturel urbain en 2030?](resources/paris-parc-naturel-urbain-2030.pdf) | L'entretien de milieux favorables à la biodiversité | Paris |
