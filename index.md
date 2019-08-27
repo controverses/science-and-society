@@ -19,7 +19,7 @@ Groupes | Débat en atelier et dossier | Arène thématique (vendredi) | Arène 
 10 et 25 | [Les milieux humides, poumons menacés des écosystèmes?](resources/milieux-humides-poumons-menaces.pdf) | L'entretien de milieux favorables à la biodiversité | Grande couronne |
 11 et 26 | [Les parcs naturels régionaux franciliens et la biodiversité](resources/parcs-naturels-regionaux-franciliens.pdf) | L'entretien de milieux favorables à la biodiversité | Grande couronne |
 12 et 27 | [Trame noire et ville lumière](resources/trame-noire-ville-lumiere.pdf) | L'empreinte écologique des activités humaines | Paris |
-13 et 28 | [L'empoisonnement de la nature: la pollution industrielle des sols et de l'eau](resources/empoisonnement-de-la-nature.pdf) | L'empreinte écologique des activités humaines | Petite couronne |
+13 et 28 | [L'empoisonnement de la nature: la pollution industrielle des sols et des eaux](resources/empoisonnement-de-la-nature.pdf) | L'empreinte écologique des activités humaines | Petite couronne |
 14 et 29 | [Le Grand Paris Express, métro écologique?](resources/grand-paris-express-metro-ecologique.pdf) | L'empreinte écologique des activités humaines | Petite couronne |
 15 et 30 | [EuropaCity: jusqu'où va la ville? Les débats sur l'artificialisation des sols](resources/europacity.pdf) | L'empreinte écologique des activités humaines | Grande couronne |
 16 et 31 | [Quel modèle agricole pour favoriser la biodiversité?](resources/quel-modele-agricole-pour-la-biodiversite.pdf) | L'empreinte écologique des activités humaines | Grande couronne |
