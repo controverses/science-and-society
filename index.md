@@ -1,25 +1,11 @@
-![Assises Franciliennes de la Biodiversité](media/Titre_AssisesBiodiversiteChouette.jpg)
+# Science and Society
 
-Pour la pré-rentrée 2019 du campus de Paris de Sciences Po, le programme FORCCAST organise les [Assises franciliennes de la biodiversité](resources/presentation-assises-franciliennes-biodiversite.pdf).
+Welcome to this website dedicated to your *Science and Society* course resources. You will find [the course syllabus](/resources/science-and-society-syllabus.pdf), and below the slides presented during the lecture.
 
-## Débats, arènes et ressources
+## Lecture slides
 
-*En plus des ressources propres à chaque groupe, tou-te-s les étudiant-e-s préparent le lancement de la simulation le jeudi soir à partir d'une lecture du dossier [Europacity: jusqu'où va la ville ?](resources/europacity.pdf).*
-
-Groupes | Débat en atelier et dossier | Arène thématique (vendredi) | Arène territoriale (samedi) |
-1 et 17 | [Les rats à Paris: invasion et cohabitation](resources/rats-paris.pdf) | L'évolution des écosystèmes franciliens | Paris |
-2 et 18 | [Printemps silencieux franciliens? Recenser et protéger les populations d’oiseaux](resources/printemps-silencieux-franciliens.pdf) | L'évolution des écosystèmes franciliens | Paris |
-3 et 19 | [Origines et mutations de la flore francilienne](resources/origines-mutations-flore-francilienne.pdf) | L'évolution des écosystèmes franciliens | Petite couronne |
-4 et 20 | [Les aéroports, hotspots de la biodiversité locale?](resources/aeroports-hotspots-biodiversite-locale.pdf) | L'évolution des écosystèmes franciliens | Petite couronne |
-5 et 21 | [La nouvelle fable des abeilles: des insectes au service du bien commun](resources/nouvelle-fable-des-abeilles.pdf) | L'évolution des écosystèmes franciliens | Grande couronne |
-6 | [Printemps silencieux franciliens? Recenser et protéger les populations d’oiseaux](resources/printemps-silencieux-franciliens.pdf) | L'évolution des écosystèmes franciliens | Grande couronne |
-7 et 22 | [L'agriculture urbaine peut-elle être un moyen de reconquête de la biodiversité en ville?](resources/agriculture-urbaine.pdf) | L'entretien de milieux favorables à la biodiversité | Paris |
-8 et 23 | [Paris, parc naturel urbain en 2030?](resources/paris-parc-naturel-urbain-2030.pdf) | L'entretien de milieux favorables à la biodiversité | Paris |
-9 et 24 | [Romainville : la forêt peut-elle trouver sa place en ville?](resources/romainville-place-foret-en-ville.pdf) | L'entretien de milieux favorables à la biodiversité | Petite couronne |
-10 et 25 | [Les milieux humides, poumons menacés des écosystèmes?](resources/milieux-humides-poumons-menaces.pdf) | L'entretien de milieux favorables à la biodiversité | Grande couronne |
-11 et 26 | [Les parcs naturels régionaux franciliens et la biodiversité](resources/parcs-naturels-regionaux-franciliens.pdf) | L'entretien de milieux favorables à la biodiversité | Grande couronne |
-12 et 27 | [Trame noire et ville lumière](resources/trame-noire-ville-lumiere.pdf) | L'empreinte écologique des activités humaines | Paris |
-13 et 28 | [L'empoisonnement de la nature: la pollution industrielle des sols et des eaux](resources/empoisonnement-de-la-nature.pdf) | L'empreinte écologique des activités humaines | Petite couronne |
-14 et 29 | [Le Grand Paris Express, métro écologique?](resources/grand-paris-express-metro-ecologique.pdf) | L'empreinte écologique des activités humaines | Petite couronne |
-15 et 30 | [EuropaCity: jusqu'où va la ville? Les débats sur l'artificialisation des sols](resources/europacity.pdf) | L'empreinte écologique des activités humaines | Grande couronne |
-16 et 31 | [Quel modèle agricole pour favoriser la biodiversité?](resources/quel-modele-agricole-pour-la-biodiversite.pdf) | L'empreinte écologique des activités humaines | Grande couronne |
+Monday 20 | [Science and Society - General introduction](resources/0-general-introduction.pdf) |
+Monday 20 | [Lecture 1 - The Gender of Science](resources/1-the-gender-of-science.pdf)|
+Tuesday 21 | [Lecture 2 - A Politics of Things]()|
+Thursday 23 | [Lecture 3 - Rethinking Expertise through Controversies]()|
+Friday 24 | [Lecture 4 - Environmental Social Sciences]()|
