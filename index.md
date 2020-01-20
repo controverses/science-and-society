@@ -1,10 +1,6 @@
-
-
 # Science and Society
 
-
-Welcome to this website dedicated to your *Science and Society* course resources. You will find [the course syllabus](/resources/science-and-society-syllabus.pdf), and below the slides presented during the lecture.
-
+Welcome to this website dedicated to your *Science and Society* winter school resources. You will find here [the course syllabus](/resources/science-and-society-syllabus.pdf), and below the slides presented during the lecture.
 
 ## Lecture slides
 
