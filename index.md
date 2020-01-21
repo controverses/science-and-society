@@ -6,6 +6,6 @@ Welcome to this website dedicated to your *Science and Society* winter school re
 
 Monday 20 | [Science and Society - General introduction](resources/0-general-introduction.pdf) |
 Monday 20 | [Lecture 1 - The Gender of Science](resources/1-the-gender-of-science.pdf) |
-Tuesday 21 | Lecture 2 - A Politics of Things |
+Tuesday 21 | [Lecture 2 - A Politics of Things](resources/2-a-politics-of-things.pdf) |
 Thursday 23 | Lecture 3 - Rethinking Expertise through Controversies |
 Friday 24 | Lecture 4 - Environmental Social Sciences |
