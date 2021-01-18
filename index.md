@@ -14,4 +14,4 @@ Friday 22 | 4 - Environmental Social Sciences | Lecture 4 |
 
 ## Final exam
 
-Please find here [last year final exam on Episiotomy or Sargassum](/resources/2020-science-and-society-exam.pdf)
+Please find here [last year final exam](/resources/2020-science-and-society-exam.pdf).
