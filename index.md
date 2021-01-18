@@ -4,7 +4,7 @@ Welcome to this website dedicated to your *Science and Society* winter school re
 
 ## Lecture materials
 
-The zoom recordings are split in two sessions (before and after the break). Within Zoom player, following the links below, if you click on "going forward" (which is the button immediately to the right of "play") you will have access to the other video.
+*The zoom recordings are split in two sessions (before and after the break). Within the Zoom player, following the given link, you have to click on "going forward" (which is the button immediately to the right of "play") to switch to the second video.*
 
 Date | Presentation slides | Zoom Recording |
 Monday 18 | [1 - The Gender of Science](/resources/1-the-gender-of-science.pdf) | [Lecture 1](https://sciencespo.zoom.us/rec/share/h2zARjm3g-VNgRQ-ndTKKs_aCTgFnPiF6W909EXMtCVOELYT9z3D1dLvSLUOxVVq.16oU2Zkf9N_EtJKg) Passcode: `*A6*Qg&r` |
