@@ -4,7 +4,7 @@ Welcome to this website dedicated to your *Science and Society* winter school re
 
 ## Lecture materials
 
-Date | Presentation slides | Zoom Recording 1 | Zoom Recording 2 |
+Date | Presentation slides | Zoom Recording | Zoom Recording |
 Monday 18 | 1 - The Gender of Science | Video of Lecture 1-1 | Video of Lecture 1-2 |
 Tuesday 19 | 2 - A Politics of Things | Video of Lecture 2-1 | Video of Lecture 2-2 |
 Wednesday 20 | 3 - Rethinking Expertise through Controversies | Video of Lecture 3-1 | Video of Lecture 3-2 |
