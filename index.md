@@ -2,12 +2,13 @@
 
 Welcome to this website dedicated to your *Science and Society* winter school resources. You will find here [the course syllabus](/resources/science-and-society-syllabus.pdf), and below the slides presented during the lecture, and zoom recordings.
 
-## Lecture slides
+## Lecture materials
 
-Monday 18 | [Lecture 1 - The Gender of Science](resources/1-the-gender-of-science.pdf) | [Recording of Lecture 1 Part 1]() | [Recording of Lecture 1 Part 2]()
-Tuesday 19 | Lecture 2 - A Politics of Things | Recording of Lecture 2 Part 1 | Recording of Lecture 2 Part 2
-Wednesday 20 | Lecture 3 - Rethinking Expertise through Controversies | Recording of Lecture 3 Part 1 | Recording of Lecture 3 Part 2
-Friday 22 | Lecture 4 - Environmental Social Sciences | Recording of Lecture 4 Part 1 | Recording of Lecture 4 Part 2
+ | Presentation slides | Zoom Recording 1 | Zoom Recording 2 |
+Monday 18 | Lecture 1 - The Gender of Science | Recording of Lecture 1 Part 1 | Recording of Lecture 1 Part 2 |
+Tuesday 19 | Lecture 2 - A Politics of Things | Recording of Lecture 2 Part 1 | Recording of Lecture 2 Part 2 |
+Wednesday 20 | Lecture 3 - Rethinking Expertise through Controversies | Recording of Lecture 3 Part 1 | Recording of Lecture 3 Part 2 |
+Friday 22 | Lecture 4 - Environmental Social Sciences | Recording of Lecture 4 Part 1 | Recording of Lecture 4 Part 2 |
 
 ## Final exam
 
