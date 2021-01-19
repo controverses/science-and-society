@@ -8,7 +8,7 @@ Welcome to this website dedicated to your *Science and Society* winter school re
 
 Date | Presentation slides | Zoom Recording |
 Monday 18 | [1 - The Gender of Science](/resources/1-the-gender-of-science.pdf) | [Lecture 1](https://sciencespo.zoom.us/rec/share/h2zARjm3g-VNgRQ-ndTKKs_aCTgFnPiF6W909EXMtCVOELYT9z3D1dLvSLUOxVVq.16oU2Zkf9N_EtJKg) Passcode: `*A6*Qg&r` |
-Tuesday 19 | 2 - A Politics of Things | Lecture 2 |
+Tuesday 19 | [2 - A Politics of Things](/resources/2-a-politics-of-things.pdf) | Lecture 2 |
 Wednesday 20 | 3 - Rethinking Expertise through Controversies | Lecture 3 |
 Friday 22 | 4 - Environmental Social Sciences | Lecture 4 |
 
