@@ -8,8 +8,8 @@ Welcome to this website dedicated to your *Science and Society* winter school re
 
 Date | Presentation slides | Zoom Recording |
 Monday 18 | [1 - The Gender of Science](/resources/1-the-gender-of-science.pdf) | [Lecture 1](https://sciencespo.zoom.us/rec/share/h2zARjm3g-VNgRQ-ndTKKs_aCTgFnPiF6W909EXMtCVOELYT9z3D1dLvSLUOxVVq.16oU2Zkf9N_EtJKg) Passcode: `*A6*Qg&r`|
-Tuesday 19 | [2 - A Politics of Things](https://drive.google.com/file/d/1Cnb5ULmjOdPDADNqU9QQIO4iXxSUg73t/view?usp=sharing) | [Lecture 2](https://sciencespo.zoom.us/rec/share/ZowYtZpvDb-PfP61iiPL88Yhy0I37ZmMcvzOk0ftdX8bOvqKYHhuiomhoSe0hI2B.-9kxEK98iOq_76RK) Passcode: `t+iC%8re`|
-Wednesday 20 | 3 - Rethinking Expertise through Controversies | Lecture 3 |
+Tuesday 19 | [2 - A Politics of Things](/resources/2-a-politics-of-things.pdf) | [Lecture 2](https://sciencespo.zoom.us/rec/share/ZowYtZpvDb-PfP61iiPL88Yhy0I37ZmMcvzOk0ftdX8bOvqKYHhuiomhoSe0hI2B.-9kxEK98iOq_76RK) Passcode: `t+iC%8re`|
+Wednesday 20 | [3 - Rethinking Expertise through Controversies](/resources/3-rethinking-expertise.pdf) | Lecture 3 |
 Friday 22 | 4 - Environmental Social Sciences | Lecture 4 |
 
 ## Final exam
