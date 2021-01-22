@@ -12,6 +12,6 @@ Tuesday 19 | [2 - A Politics of Things](/resources/2-a-politics-of-things.pdf) |
 Wednesday 20 | [3 - Rethinking Expertise through Controversies](/resources/3-rethinking-expertise.pdf) | [Lecture 3](https://sciencespo.zoom.us/rec/share/ZrIOVZh5sUttSvNsCxQlZsIuJ6WKscrPDr6E3kgUnzLVuYr0gg5zn8nsF874gMlD.cdv3eXrFKdJNBUVe) Passcode: `gZ1aN3h^`|
 Friday 22 | [4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) | [Lecture 4](https://sciencespo.zoom.us/rec/share/iBt4qxmfP6OCRuDRp0_lmpYx9DI_3dRkyqA0r_0M83UI8w7VPU6aHnphD4bSYakj.Sk8P-P8z3as5xiLe) Passcode: `n=u%wD7G`|
 
-## Final exam
+## You will find here [this year final exam](/resources/2021-science-and-society-exam.pdf).
 
-Please find here [last year final exam](/resources/2020-science-and-society-exam.pdf).
+Please choose one of the two corpora and write a structured analysis in less than 2000 words. We advise you don't spend more than two hours on this exam. *Please send back your work (as a pdf or doc/docx document attached to an email) to your seminar teacher, before Saturday 23 January 2021, 6 pm CET.*
