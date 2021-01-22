@@ -10,7 +10,7 @@ Date | Presentation slides | Zoom Recording |
 Monday 18 | [1 - The Gender of Science](/resources/1-the-gender-of-science.pdf) | [Lecture 1](https://sciencespo.zoom.us/rec/share/h2zARjm3g-VNgRQ-ndTKKs_aCTgFnPiF6W909EXMtCVOELYT9z3D1dLvSLUOxVVq.16oU2Zkf9N_EtJKg) Passcode: `*A6*Qg&r`|
 Tuesday 19 | [2 - A Politics of Things](/resources/2-a-politics-of-things.pdf) | [Lecture 2](https://sciencespo.zoom.us/rec/share/ZowYtZpvDb-PfP61iiPL88Yhy0I37ZmMcvzOk0ftdX8bOvqKYHhuiomhoSe0hI2B.-9kxEK98iOq_76RK) Passcode: `t+iC%8re`|
 Wednesday 20 | [3 - Rethinking Expertise through Controversies](/resources/3-rethinking-expertise.pdf) | [Lecture 3](https://sciencespo.zoom.us/rec/share/ZrIOVZh5sUttSvNsCxQlZsIuJ6WKscrPDr6E3kgUnzLVuYr0gg5zn8nsF874gMlD.cdv3eXrFKdJNBUVe) Passcode: `gZ1aN3h^`|
-Friday 22 | [4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) | Lecture 4 |
+Friday 22 | [4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) | [Lecture 4](https://sciencespo.zoom.us/rec/share/iBt4qxmfP6OCRuDRp0_lmpYx9DI_3dRkyqA0r_0M83UI8w7VPU6aHnphD4bSYakj.Sk8P-P8z3as5xiLe) Passcode: `n=u%wD7G`|
 
 ## Final exam
 
