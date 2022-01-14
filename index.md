@@ -4,17 +4,17 @@ Welcome to this website dedicated to your 2022 *Science and Society* winter scho
 
 ## Syllabus
 
-[The course syllabus](/resources/science-and-society-syllabus.pdf), including the teaching programme for the week.
+The [COURSE SYLLABUS](/resources/science-and-society-syllabus.pdf), including the programme of the week.
 
 ## Afternoon Lectures
 
 Date | Presentation slides |
-Monday 17 | 1 - The Gender of Science |
-Tuesday 18 | 2 - A Politics of Things |
-Wednesday 19 | 3 - Rethinking Expertise through Controversies |
-Thursday 20 | 4 - Environmental Social Sciences |
+Monday 17 | 1 - THE GENDER OF SCIENCE |
+Tuesday 18 | 2 - A POLITICS OF THINGS |
+Wednesday 19 | 3 - RETHINKING EXPERTISE |
+Thursday 20 | 4 - ENVIRONMENTAL SOCIAL SCIENCES |
 
-The lectures will be taught in English.
+The lectures will be taught in English. Slides will be uploaded after each lecture.
 
 ## Morning Seminars
 
@@ -31,5 +31,5 @@ You will work on some of the following thematic corpora during the four morning 
 ## Past Exams
 
 Year and Exam | Topic A (EN) | Topic B (FR) |
-[2020 Science and Society Exam](/resources/2020-science-and-society-exam.pdf) | Does episiotomy equate obstetrical violence? | L’invasion des algues sargasses aux Antilles, une catastrophe naturelle ? |
-[2021 Science and Society Exam](/resources/2021-science-and-society-exam.pdf) | Sleeping with the enemy: bed bugs come back | Que faire pour les “malades chroniques” de Lyme ? |
+[2020 EXAM](/resources/2020-science-and-society-exam.pdf) | Does episiotomy equate obstetrical violence? | L’invasion des algues sargasses aux Antilles, une catastrophe naturelle ? |
+[2021 EXAM](/resources/2021-science-and-society-exam.pdf) | Sleeping with the enemy: bed bugs come back | Que faire pour les “malades chroniques” de Lyme ? |
