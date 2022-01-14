@@ -26,8 +26,8 @@ You will work on some of the following thematic corpora during the four morning 
 [MAPPING THE WORLD](/resources/science-and-society-maps-en.pdf) | Cartography, Power and Society 1492–1945 | EN |
 [STAR WARS](/resources/science-and-society-star-wars-en.pdf) | Revolutions in Astronomy and Politics in the 19th-century | EN |
 
-[LES CONTROVERSES DU GLYPHOSATE](/resources/science-and-society-glyphosate-fr.pdf) / Une enquête sur la production d’expertise des risques dans l’UE | FR |
-[LA GUERRE DES ÉTOILES](/resources/science-and-society-star-wars-fr.pdf) / Révolutions politiques et astronomiques au XIXe siècle | FR |
+[LES CONTROVERSES DU GLYPHOSATE](/resources/science-and-society-glyphosate-fr.pdf) | Une enquête sur la production d’expertise des risques dans l’UE | FR |
+[LA GUERRE DES ÉTOILES](/resources/science-and-society-star-wars-fr.pdf) | Révolutions politiques et astronomiques au XIXe siècle | FR |
 
 ## Past Exams
 
