@@ -30,6 +30,6 @@ You will work on some of the following thematic corpora during the four morning 
 
 ## Past Exams
 
-Year and Exam | Topic A (EN) | Topic B (FR) |
+Year | Topic A (EN) | Topic B (FR) |
 [2020 EXAM](/resources/2020-science-and-society-exam.pdf) | Does episiotomy equate obstetrical violence? | L’invasion des algues sargasses aux Antilles, une catastrophe naturelle ? |
 [2021 EXAM](/resources/2021-science-and-society-exam.pdf) | Sleeping with the enemy: bed bugs come back | Que faire pour les “malades chroniques” de Lyme ? |
