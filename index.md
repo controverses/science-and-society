@@ -1,22 +1,22 @@
 # Science and Society
 
-Welcome to this website dedicated to your 2022 *Science and Society* winter school that will take place from Monday Jan. 17 to Friday 21.
+Welcome to this website dedicated to your 2022 *Science and Society* winter school that will take place from Monday Jan. 17 to Friday 21. You will find here all the resources.
 
 ## Syllabus
 
-You will find here [the course syllabus](/resources/science-and-society-syllabus.pdf).
+[The course syllabus](/resources/science-and-society-syllabus.pdf), including the teaching programme for the week.
 
-## Lectures
+## Afternoon Lectures
 
 Date | Presentation slides |
-Monday 17 (4.30-7pm) | 1 - The Gender of Science |
-Tuesday 18 (2.30-5pm) | 2 - A Politics of Things |
-Wednesday 19 (2.30-5pm) | 3 - Rethinking Expertise through Controversies |
-Thursday 20 (2.30-5pm)  | 4 - Environmental Social Sciences |
+Monday 17 | 1 - The Gender of Science |
+Tuesday 18 | 2 - A Politics of Things |
+Wednesday 19 | 3 - Rethinking Expertise through Controversies |
+Thursday 20 | 4 - Environmental Social Sciences |
 
 The lectures will be taught in English.
 
-## Seminars
+## Morning Seminars
 
 You will work on some of the following thematic corpora during the four morning sessions. Other resources could be shared by your seminar teacher. 17 seminars will be taught in English, 8 in French.
 
@@ -30,4 +30,6 @@ You will work on some of the following thematic corpora during the four morning 
 
 ## Past Exams
 
-You will find here [the 2020](/resources/2020-science-and-society-exam.pdf) and [the 2021 final exams](/resources/2021-science-and-society-exam.pdf).
+Year and Exam | Topic A (EN) | Topic B (FR) |
+[2020 Science and Society Exam](/resources/2020-science-and-society-exam.pdf) | Does episiotomy equate obstetrical violence? | L’invasion des algues sargasses aux Antilles, une catastrophe naturelle ? |
+[2021 Science and Society Exam](/resources/2021-science-and-society-exam.pdf) | Sleeping with the enemy: bed bugs come back | Que faire pour les “malades chroniques” de Lyme ? |
