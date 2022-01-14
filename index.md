@@ -4,7 +4,7 @@ Welcome to this website dedicated to your 2022 *Science and Society* winter scho
 
 ## Syllabus
 
-You will find here [the course syllabus](/resources/science-and-society-syllabus.pdf)
+You will find here [the course syllabus](/resources/science-and-society-syllabus.pdf).
 
 ## Lectures
 
@@ -13,6 +13,21 @@ Monday 17 (4.30-7pm) | 1 - The Gender of Science |
 Tuesday 18 (2.30-5pm) | 2 - A Politics of Things |
 Wednesday 19 (2.30-5pm) | 3 - Rethinking Expertise through Controversies |
 Thursday 20 (2.30-5pm)  | 4 - Environmental Social Sciences |
+
+The lectures will be taught in English.
+
+## Seminars
+
+You will work on some of the following thematic corpora during the four morning sessions. Other resources could be shared by your seminar teacher. 17 seminars will be taught in English, 8 in French.
+
+[THE DOMESTICATION OF WHAT?](/resources/science-and-society-grains-en.pdf) | A Political Economy of Grains | EN |
+[GLYPHOSATE CONTROVERSIES](/resources/science-and-society-glyphosate-en.pdf) | The Production of Risk Assessment Expertise in Europe | EN |
+[LIVING WITH HIV-AIDS](/resources/science-and-society-aids-en.pdf) | Politics of Knowledge in an Epidemic | EN |
+[MAPPING THE WORLD](/resources/science-and-society-maps-en.pdf) | Cartography, Power and Society 1492–1945 | EN |
+[STAR WARS](/resources/science-and-society-star-wars-en.pdf) | Revolutions in Astronomy and Politics in the 19th-century | EN |
+
+[LES CONTROVERSES DU GLYPHOSATE](/resources/science-and-society-glyphosate-fr.pdf) / Une enquête sur la production d’expertise des risques dans l’UE | FR |
+[LA GUERRE DES ÉTOILES](/resources/science-and-society-star-wars-fr.pdf) / Révolutions politiques et astronomiques au XIXe siècle | FR |
 
 ## Past Exams
 
