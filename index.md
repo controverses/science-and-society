@@ -9,10 +9,10 @@ You will find here [the course syllabus](/resources/science-and-society-syllabus
 ## Lectures
 
 Date | Presentation slides |
-Monday 17 (4.30pm-7pm) | 1 - The Gender of Science |
-Tuesday 18 (2.30pm-5pm) | 2 - A Politics of Things |
-Wednesday 19 (2.30pm-5pm) | 3 - Rethinking Expertise through Controversies() |
-Thursday 20 (2.30pm-5pm)  | 4 - Environmental Social Sciences() |
+Monday 17 (4.30-7pm) | 1 - The Gender of Science |
+Tuesday 18 (2.30-5pm) | 2 - A Politics of Things |
+Wednesday 19 (2.30-5pm) | 3 - Rethinking Expertise through Controversies |
+Thursday 20 (2.30-5pm)  | 4 - Environmental Social Sciences |
 
 ## Past Exams
 
