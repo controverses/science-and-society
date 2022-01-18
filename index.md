@@ -10,7 +10,7 @@ The [COURSE SYLLABUS](/resources/science-and-society-syllabus.pdf), including th
 
 Date | Presentation slides |
 Monday 17 | [1 - THE GENDER OF SCIENCE](/resources/1-the-gender-of-science.pdf) |
-Tuesday 18 | 2 - A POLITICS OF THINGS |
+Tuesday 18 | [2 - A POLITICS OF THINGS](/resources/2-a-politics-of-things.pdf) |
 Wednesday 19 | 3 - RETHINKING EXPERTISE |
 Thursday 20 | 4 - ENVIRONMENTAL SOCIAL SCIENCES |
 
