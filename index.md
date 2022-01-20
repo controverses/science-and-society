@@ -12,7 +12,7 @@ Date | Presentation slides |
 Monday 17 | [1 - THE GENDER OF SCIENCE](/resources/1-the-gender-of-science.pdf) |
 Tuesday 18 | [2 - A POLITICS OF THINGS](/resources/2-a-politics-of-things.pdf) |
 Wednesday 19 | [3 - RETHINKING EXPERTISE](/resources/3-rethinking-expertise.pdf) |
-Thursday 20 | 4 - ENVIRONMENTAL SOCIAL SCIENCES |
+Thursday 20 | [4 - ENVIRONMENTAL SOCIAL SCIENCES](/resources/4-environmental-social-sciences.pdf) |
 
 The lectures will be taught in English. Slides will be uploaded after each lecture.
 
