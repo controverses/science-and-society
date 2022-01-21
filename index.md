@@ -2,6 +2,28 @@
 
 Welcome to this website dedicated to your 2022 *Science and Society* winter school that will take place from Monday Jan. 17 to Friday 21. You will find here all the resources.
 
+## 2022 EXAM
+
+Here is the [2022 SCIENCE AND SOCIETY EXAM](/resources/2022-science-and-society-exam.pdf).
+
+Please send your work to you seminar teacher before **Saturday 22 January, 6PM CET**
+You have to attach the file to an email sent to their urkund address:
+
+Seminar teacher | Urkund email address | 
+Alexis Aulagnier | alexis.aulagnier.scpo@analyse.urkund.com |
+Manon Berriche | manon.berriche.scpo@analyse.urkund.com |
+Lisa Claussmann | lisa.claussmann.scpo@analyse.urkund.com |
+Valentine Crosset | valentine.crosset.scpo@analyse.urkund.com |
+Léa Delmaire | lea.delmaire.scpo@analyse.urkund.com |
+Maël Goumri | mael.goumri.scpo@analyse.urkund.com |
+Simon Léger | simon.leger.scpo@analyse.urkund.com |
+Matti Leprêtre | matti.lepretre.scpo@analyse.urkund.com |
+Aymeric Luneau | aymeric.luneau.scpo@analyse.urkund.com |
+Laure Manach | laure.manach.scpo@analyse.urkund.com |
+Shiori Nosaka | shiori.nosaka.scpo@analyse.urkund.com |
+Lucie Sénéchal-Perrouault | lucie.senechalperrouault.scpo@analyse.urkund.com |
+Thomas Tari | thomas.tari.scpo@analyse.urkund.com |
+
 ## Syllabus
 
 The [COURSE SYLLABUS](/resources/science-and-society-syllabus.pdf), including the programme of the week.
@@ -28,8 +50,9 @@ You will work on some of the following thematic corpora during the four morning 
 [LES CONTROVERSES DU GLYPHOSATE](/resources/science-and-society-glyphosate-fr.pdf) | Une enquête sur la production d’expertise des risques dans l’UE | FR |
 [LA GUERRE DES ÉTOILES](/resources/science-and-society-star-wars-fr.pdf) | Révolutions politiques et astronomiques au XIXe siècle | FR |
 
+<!--- 
 ## Past Exams
 
 Year | Topic A (EN) | Topic B (FR) |
 [2020 EXAM](/resources/2020-science-and-society-exam.pdf) | Does episiotomy equate obstetrical violence? | L’invasion des algues sargasses aux Antilles, une catastrophe naturelle ? |
-[2021 EXAM](/resources/2021-science-and-society-exam.pdf) | Sleeping with the enemy: bed bugs come back | Que faire pour les “malades chroniques” de Lyme ? |
+[2021 EXAM](/resources/2021-science-and-society-exam.pdf) | Sleeping with the enemy: bed bugs come back | Que faire pour les “malades chroniques” de Lyme ? | -->
