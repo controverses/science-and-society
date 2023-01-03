@@ -14,11 +14,11 @@ tuesday 17 | [2 `|` a politics of things](/resources/2-a-politics-of-things.pdf)
 wednesday 18 | [3 `|` rethinking expertise](/resources/3-rethinking-expertise.pdf) |
 thursday 19 | [4 `|` environmental social sciences](/resources/4-environmental-social-sciences.pdf) |
 
-the lectures will be taught in english; slides will be uploaded after each lecture
+the lectures are taught in english; slides are uploaded every day
 
 ## afternoon seminars |
 
-you will work on some of the following thematic corpora during the four afternoon sessions; other resources could be shared by your seminar teacher
+during the four afternoon sessions, you will work on some of the following thematic corpora; other resources could be shared by your seminar teacher
 
 [the domestication of what?](/resources/science-and-society-grains-en.pdf) | a political economy of grains | en |
 [glyphosate controversies](/resources/science-and-society-glyphosate-en.pdf) | the production of risk assessment expertise in europe | en |
