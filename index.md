@@ -1,36 +1,36 @@
-# Science and Society
+# science and society |
 
-Welcome to this website dedicated to your 2022 *Science and Society* winter school that will take place from Monday Jan. 17 to Friday 21. You will find here all the resources.
+welcome to this website dedicated to your 2023 *science and society* winter school that will take place from mon. 16 to thurs. 19 jan. | you will find here all the resources
 
-## Syllabus
+## syllabus |
 
-The [COURSE SYLLABUS](/resources/science-and-society-syllabus.pdf), including the programme of the week.
+the [course syllabus](/resources/science-and-society-syllabus.pdf), including the programme of the week
 
-## Afternoon Lectures
+## morning lectures |
 
-Date | Presentation slides |
-Monday 17 | [1 - THE GENDER OF SCIENCE](/resources/1-the-gender-of-science.pdf) |
-Tuesday 18 | [2 - A POLITICS OF THINGS](/resources/2-a-politics-of-things.pdf) |
-Wednesday 19 | [3 - RETHINKING EXPERTISE](/resources/3-rethinking-expertise.pdf) |
-Thursday 20 | [4 - ENVIRONMENTAL SOCIAL SCIENCES](/resources/4-environmental-social-sciences.pdf) |
+date | presentation slides |
+monday 16 | [1 | the gender of science](/resources/1-the-gender-of-science.pdf) |
+tuesday 17 | [2 | a politics of things](/resources/2-a-politics-of-things.pdf) |
+wednesday 18 | [3 | rethinking expertise](/resources/3-rethinking-expertise.pdf) |
+thursday 19 | [4 | environmental social sciences](/resources/4-environmental-social-sciences.pdf) |
 
-The lectures will be taught in English. Slides will be uploaded after each lecture.
+the lectures will be taught in english | slides will be uploaded after each lecture
 
-## Morning Seminars
+## afternoon seminars |
 
-You will work on some of the following thematic corpora during the four morning sessions. Other resources could be shared by your seminar teacher. 17 seminars will be taught in English, 8 in French.
+you will work on some of the following thematic corpora during the four afternoon sessions | other resources could be shared by your seminar teacher | 13 seminars will be taught in English, 8 in French
 
-[THE DOMESTICATION OF WHAT?](/resources/science-and-society-grains-en.pdf) | A Political Economy of Grains | EN |
-[GLYPHOSATE CONTROVERSIES](/resources/science-and-society-glyphosate-en.pdf) | The Production of Risk Assessment Expertise in Europe | EN |
-[LIVING WITH HIV-AIDS](/resources/science-and-society-aids-en.pdf) | Politics of Knowledge in an Epidemic | EN |
-[MAPPING THE WORLD](/resources/science-and-society-maps-en.pdf) | Cartography, Power and Society 1492–1945 | EN |
-[STAR WARS](/resources/science-and-society-star-wars-en.pdf) | Revolutions in Astronomy and Politics in the 19th-century | EN |
-[LES CONTROVERSES DU GLYPHOSATE](/resources/science-and-society-glyphosate-fr.pdf) | Une enquête sur la production d’expertise des risques dans l’UE | FR |
-[LA GUERRE DES ÉTOILES](/resources/science-and-society-star-wars-fr.pdf) | Révolutions politiques et astronomiques au XIXe siècle | FR |
+[the domestication of what?](/resources/science-and-society-grains-en.pdf) | a political economy of grains | en |
+[glyphosate controversies](/resources/science-and-society-glyphosate-en.pdf) | the production of risk assessment expertise in europe | en |
+[living with hiv-aids](/resources/science-and-society-aids-en.pdf) | politics of knowledge in an epidemic | en |
+[mapping the world](/resources/science-and-society-maps-en.pdf) | cartography, power and society 1492–1945 | en |
+[star wars](/resources/science-and-society-star-wars-en.pdf) | revolutions in astronomy and politics in the 19th-century | en |
+[les controverses du glyphosate](/resources/science-and-society-glyphosate-fr.pdf) | une enquête sur la production d’expertise des risques dans l’ue | fr |
+[la guerre des étoiles](/resources/science-and-society-star-wars-fr.pdf) | révolutions politiques et astronomiques au 19e siècle | fr |
 
-## Exams (2022 and past)
+## past exams |
 
-Year | Topic A (EN) | Topic B (FR) |
-[2022 EXAM](/resources/2022-science-and-society-exam.pdf) | Should we judge species on their origins? | Rendre visible l'endométriose |
-[2021 EXAM](/resources/2021-science-and-society-exam.pdf) | Sleeping with the enemy: bed bugs come back | Que faire pour les “malades chroniques” de Lyme ? |
-[2020 EXAM](/resources/2020-science-and-society-exam.pdf) | Does episiotomy equate obstetrical violence? | L’invasion des algues sargasses aux Antilles, une catastrophe naturelle ? |
+year | topic a (en) | topic b (fr) |
+[2022 exam](/resources/2022-science-and-society-exam.pdf) | should we judge species on their origins? | rendre visible l'endométriose |
+[2021 exam](/resources/2021-science-and-society-exam.pdf) | sleeping with the enemy: bed bugs come back | que faire pour les “malades chroniques” de lyme ? |
+[2020 exam](/resources/2020-science-and-society-exam.pdf) | does episiotomy equate obstetrical violence? | l’invasion des algues sargasses aux antilles, une catastrophe naturelle ? |
