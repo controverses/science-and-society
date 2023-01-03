@@ -9,10 +9,10 @@ the [course syllabus](/resources/science-and-society-syllabus.pdf), including th
 ## morning lectures |
 
 date | presentation slides |
-monday 16 | [1 | the gender of science](/resources/1-the-gender-of-science.pdf) |
-tuesday 17 | [2 | a politics of things](/resources/2-a-politics-of-things.pdf) |
-wednesday 18 | [3 | rethinking expertise](/resources/3-rethinking-expertise.pdf) |
-thursday 19 | [4 | environmental social sciences](/resources/4-environmental-social-sciences.pdf) |
+monday 16 | [1 `|` the gender of science](/resources/1-the-gender-of-science.pdf) |
+tuesday 17 | [2 `|` a politics of things](/resources/2-a-politics-of-things.pdf) |
+wednesday 18 | [3 `|` rethinking expertise](/resources/3-rethinking-expertise.pdf) |
+thursday 19 | [4 `|` environmental social sciences](/resources/4-environmental-social-sciences.pdf) |
 
 the lectures will be taught in english; slides will be uploaded after each lecture
 
