@@ -1,6 +1,6 @@
 # science and society |
 
-welcome to this website dedicated to your 2023 *science and society* winter school that will take place from mon. 16 to thurs. 19 jan. | you will find here all the resources
+welcome to this website dedicated to your 2023 *science and society* winter school that will take place from monday january 16 to thursday january 19; you will find here all the resources
 
 ## syllabus |
 
@@ -14,11 +14,11 @@ tuesday 17 | [2 | a politics of things](/resources/2-a-politics-of-things.pdf) |
 wednesday 18 | [3 | rethinking expertise](/resources/3-rethinking-expertise.pdf) |
 thursday 19 | [4 | environmental social sciences](/resources/4-environmental-social-sciences.pdf) |
 
-the lectures will be taught in english | slides will be uploaded after each lecture
+the lectures will be taught in english; slides will be uploaded after each lecture
 
 ## afternoon seminars |
 
-you will work on some of the following thematic corpora during the four afternoon sessions | other resources could be shared by your seminar teacher | 13 seminars will be taught in English, 8 in French
+you will work on some of the following thematic corpora during the four afternoon sessions; other resources could be shared by your seminar teacher
 
 [the domestication of what?](/resources/science-and-society-grains-en.pdf) | a political economy of grains | en |
 [glyphosate controversies](/resources/science-and-society-glyphosate-en.pdf) | the production of risk assessment expertise in europe | en |
