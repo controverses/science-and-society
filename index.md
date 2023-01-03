@@ -1,6 +1,6 @@
 # science and society |
 
-welcome to this website dedicated to your 2023 *science and society* winter school resources
+welcome to this website dedicated to your 2023 winter school resources
 
 ## syllabus |
 
