@@ -1,6 +1,6 @@
 # science and society |
 
-welcome to this website dedicated to your 2023 *science and society* winter school that will take place from monday january 16 to thursday january 19; you will find here all the resources
+welcome to this website dedicated to your 2023 *science and society* winter school resources
 
 ## syllabus |
 
