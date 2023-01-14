@@ -13,6 +13,7 @@ monday 16 | 1 `|` the gender of science |
 tuesday 17 | 2 `|` a politics of things |
 wednesday 18 | 3 `|` rethinking expertise |
 thursday 19 | 4 `|` environmental social sciences |
+6.30-8.30pm |conference of Laurent Bopp organised by spe|
 
 the lectures are taught in english; slides are uploaded every day
 
