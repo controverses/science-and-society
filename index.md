@@ -13,7 +13,7 @@ monday 16 | 1 `|` the gender of science |
 tuesday 17 | 2 `|` a politics of things |
 wednesday 18 | 3 `|` rethinking expertise |
 thursday 19 | 4 `|` environmental social sciences |
-*thur. 19 `|` 6.30pm* | *spe conference w/ laurent bopp* |
+*thursday 6.30pm* | *spe conference w/ laurent bopp* |
 
 the lectures are taught in english; slides are uploaded every day
 
@@ -32,7 +32,7 @@ during the four afternoon sessions, you will work on some of the following thema
 ## exams |
 
 year | topic a (en) | topic b (fr) |
-2023 exam | uploaded on friday 20 morning, deadline on saturday 21, 12pm | sujet le vendredi 20 matin, à rendre pour le samedi 21 midi |
+2023 exam | friday 20 morning - saturday 21, 12pm | vendredi 20 matin - samedi 21 midi |
 [2022 exam](/resources/2022-science-and-society-exam.pdf) | should we judge species on their origins? | rendre visible l'endométriose |
 [2021 exam](/resources/2021-science-and-society-exam.pdf) | sleeping with the enemy: bed bugs come back | que faire pour les “malades chroniques” de lyme ? |
 [2020 exam](/resources/2020-science-and-society-exam.pdf) | does episiotomy equate obstetrical violence? | l’invasion des algues sargasses aux antilles, une catastrophe naturelle ? |
