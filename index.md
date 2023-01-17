@@ -9,7 +9,7 @@ the [course syllabus](/resources/science-and-society-syllabus.pdf), including th
 ## morning lectures |
 
 date | presentation slides |
-monday 16 | [1 `|` the gender of science](https://drive.google.com/file/d/1JfNb6S_Q_krQh-x1_O4SUub2QKcQ-dyg) |
+monday 16 | [1 `|` the gender of science](/resources/1-the-gender-of-science.pdf) |
 tuesday 17 | 2 `|` a politics of things |
 wednesday 18 | 3 `|` rethinking expertise |
 thursday 19 | 4 `|` environmental social sciences |
