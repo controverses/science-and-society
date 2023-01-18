@@ -11,7 +11,7 @@ the [course syllabus](/resources/science-and-society-syllabus.pdf), including th
 date | presentation slides |
 monday 16 | [1 `|` the gender of science](/resources/1-the-gender-of-science.pdf) |
 tuesday 17 | [2 `|` a politics of things](/resources/2-a-politics-of-things.pdf) |
-wednesday 18 | 3 `|` rethinking expertise |
+wednesday 18 | [3 `|` rethinking expertise](https://drive.google.com/file/d/1r0e_Bu1XG8RbaNKxqvsB28xeccerLghY) |
 thursday 19 | 4 `|` environmental social sciences |
 
 the lectures are taught in english; slides are uploaded every day
