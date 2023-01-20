@@ -31,7 +31,7 @@ during the four afternoon sessions, you will work on some of the following thema
 ## exams |
 
 year | topic a (en) | topic b (fr) |
-2023 exam | friday 20 morning - saturday 21, 12pm | vendredi 20 matin - samedi 21 midi |
+[2023 exam](/resources/2023-science-and-society-exam.pdf) | are women the fairer sex? | protéger 30% de la planète d'ici 2030 |
 [2022 exam](/resources/2022-science-and-society-exam.pdf) | should we judge species on their origins? | rendre visible l'endométriose |
 [2021 exam](/resources/2021-science-and-society-exam.pdf) | sleeping with the enemy: bed bugs come back | que faire pour les “malades chroniques” de lyme ? |
 [2020 exam](/resources/2020-science-and-society-exam.pdf) | does episiotomy equate obstetrical violence? | l’invasion des algues sargasses aux antilles, une catastrophe naturelle ? |
