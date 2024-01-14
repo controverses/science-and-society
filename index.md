@@ -28,7 +28,7 @@ during the four afternoon sessions, you will work on some of the following thema
 [les controverses du glyphosate](/resources/science-and-society-glyphosate-fr.pdf) | une enquête sur la production d’expertise des risques dans l’ue | fr |
 [la guerre des étoiles](/resources/science-and-society-star-wars-fr.pdf) | révolutions politiques et astronomiques au 19e siècle | fr |
 
-## exams |
+## past exams |
 
 year | topic a (en) | topic b (fr) |
 [2023 exam](/resources/2023-science-and-society-exam.pdf) | are women the fairer sex? | protéger 30% de la planète d'ici 2030 |
