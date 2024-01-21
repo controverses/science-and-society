@@ -30,6 +30,8 @@ during the four afternoon sessions, you will work on some of the following thema
 
 ## past exams |
 
+this year exam will take place on friday 26, from 2.30 to 4.30 pm
+
 year | topic a (en) | topic b (fr) |
 [2023 exam](/resources/2023-science-and-society-exam.pdf) | are women the fairer sex? | protéger 30% de la planète d'ici 2030 |
 [2022 exam](/resources/2022-science-and-society-exam.pdf) | should we judge species on their origins? | rendre visible l'endométriose |
