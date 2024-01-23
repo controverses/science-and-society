@@ -10,7 +10,7 @@ the [course syllabus](/resources/science-and-society-syllabus.pdf), including th
 
 date | presentation slides |
 monday 22 | 1 `|` [the gender of science](/resources/1-the-gender-of-science.pdf) |
-tuesday 23 | 2 `|` a politics of things |
+tuesday 23 | 2 `|` [a politics of things](/resources/2-a-politics-of-things.pdf) |
 wednesday 24 | 3 `|` rethinking expertise |
 thursday 25 | 4 `|` environmental social sciences |
 
