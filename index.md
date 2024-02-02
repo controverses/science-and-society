@@ -30,7 +30,7 @@ during the four afternoon sessions, you will work on some of the following thema
 
 ## past exams |
 
-this year exam will take place on friday 26, from 2.30 to 4.30 pm
+this year exam took place on friday 26, from 2.30 to 4.30 pm
 
 year | topic a (en) | topic b (fr) |
 [2024 exam](/resources/2024-science-and-society-exam.pdf) | is long covid a thing? | une retenue éthique d'eau est-elle possible ? |
