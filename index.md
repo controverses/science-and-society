@@ -1,6 +1,6 @@
 # science and society |
 
-welcome to this website dedicated to your 2024 winter school resources
+welcome to this website dedicated to your 2025 winter school resources
 
 ## syllabus |
 
@@ -9,10 +9,10 @@ the [course syllabus](/resources/science-and-society-syllabus.pdf), including th
 ## morning lectures |
 
 date | presentation slides |
-monday 22 | 1 `|` [the gender of science](/resources/1-the-gender-of-science.pdf) |
-tuesday 23 | 2 `|` [a politics of things](/resources/2-a-politics-of-things.pdf) |
-wednesday 24 | 3 `|` [rethinking expertise](/resources/3-rethinking-expertise.pdf) |
-thursday 25 | 4 `|` [environmental social sciences](/resources/4-environmental-social-sciences.pdf) |
+tuesday 21 | 1 `|` [the gender of science](/resources/1-the-gender-of-science.pdf) |
+wednesday 22 | 2 `|` [a politics of things](/resources/2-a-politics-of-things.pdf) |
+thursday 23 | 3 `|` [rethinking expertise](/resources/3-rethinking-expertise.pdf) |
+friday 24 | 4 `|` [environmental social sciences](/resources/4-environmental-social-sciences.pdf) |
 
 the lectures are taught in english; slides are uploaded every day
 
@@ -30,7 +30,7 @@ during the four afternoon sessions, you will work on some of the following thema
 
 ## past exams |
 
-this year exam took place on friday 26, from 2.30 to 4.30 pm
+this year exam took place on saturday 25, from XX to XX
 
 year | topic a (en) | topic b (fr) |
 [2024 exam](/resources/2024-science-and-society-exam.pdf) | is long covid a thing? | une retenue éthique d'eau est-elle possible ? |
