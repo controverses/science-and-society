@@ -33,6 +33,7 @@ during the four afternoon sessions, you will work on some of the following thema
 this year exam will take place on saturday 25, from 10am to 12pm
 
 year | topic a (en) | topic b (fr) |
+[2025 exam](/resources/2025-science-and-society-exam.pdf) | should we care about transgender athletes’ performance? | est-il pertinent de recenser où nos parents sont nés ? |
 [2024 exam](/resources/2024-science-and-society-exam.pdf) | is long covid a thing? | une retenue éthique d'eau est-elle possible ? |
 [2023 exam](/resources/2023-science-and-society-exam.pdf) | are women the fairer sex? | protéger 30% de la planète d'ici 2030 |
 [2022 exam](/resources/2022-science-and-society-exam.pdf) | should we judge species on their origins? | rendre visible l'endométriose |
