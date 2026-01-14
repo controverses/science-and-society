@@ -27,7 +27,7 @@ during the four afternoon sessions, you will work on some of the following thema
 [star wars](/resources/science-and-society-star-wars-en.pdf) | revolutions in astronomy and politics in the 19th-century | en |
 [les controverses du glyphosate](/resources/science-and-society-glyphosate-fr.pdf) | une enquête sur la production d’expertise des risques dans l’ue | fr |
 [la guerre des étoiles](/resources/science-and-society-star-wars-fr.pdf) | révolutions politiques et astronomiques au 19e siècle | fr |
-[vivre avec le sida](/resources/science-and-society-sida-fr.pdf) | des luttes menées sur le terrain des savoirs | fr |
+[vivre avec le sida](/resources/science-and-society-sida-fr.pdf) | des luttes menées sur le terrain des savoirs | fr |
 
 ## past exams |
 
