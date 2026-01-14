@@ -9,10 +9,10 @@ the [course syllabus](/resources/science-and-society-syllabus.pdf), including th
 ## morning lectures |
 
 date | presentation slides |
-tuesday 21 | 1 `|` the gender of science |
-wednesday 22 | 2 `|` a politics of things |
-thursday 23 | 3 `|` rethinking expertise |
-friday 24 | 4 `|` environmental social sciences |
+monday 19 | 1 `|` the gender of science |
+tuesday 20 | 2 `|` a politics of things |
+wednesday 21 | 3 `|` rethinking expertise |
+thursday 22 | 4 `|` environmental social sciences |
 
 the lectures are taught in english; slides are uploaded every day
 
@@ -27,7 +27,7 @@ during the four afternoon sessions, you will work on some of the following thema
 [star wars](/resources/science-and-society-star-wars-en.pdf) | revolutions in astronomy and politics in the 19th-century | en |
 [les controverses du glyphosate](/resources/science-and-society-glyphosate-fr.pdf) | une enquête sur la production d’expertise des risques dans l’ue | fr |
 [la guerre des étoiles](/resources/science-and-society-star-wars-fr.pdf) | révolutions politiques et astronomiques au 19e siècle | fr |
-[vivre avec le sida](/resources/science-and-society-sida-fr.pdf) | des luttes menées sur le terrain du savoir | fr |
+[vivre avec le sida](/resources/science-and-society-sida-fr.pdf) | des luttes menées sur le terrain des savoirs | fr |
 
 ## past exams |
 
