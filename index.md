@@ -1,6 +1,6 @@
 # science and society |
 
-welcome to this website dedicated to your 2025 winter school resources
+welcome to this website dedicated to your 2026 winter school resources
 
 ## syllabus |
 
@@ -9,10 +9,10 @@ the [course syllabus](/resources/science-and-society-syllabus.pdf), including th
 ## morning lectures |
 
 date | presentation slides |
-tuesday 21 | [1 `|` the gender of science](/resources/1-the-gender-of-science.pdf) |
-wednesday 22 | [2 `|` a politics of things](/resources/2-a-politics-of-things.pdf) |
-thursday 23 | [3 `|` rethinking expertise](/resources/3-rethinking-expertise.pdf) |
-friday 24 | [4 `|` environmental social sciences](/resources/4-environmental-social-sciences.pdf) |
+tuesday 21 | 1 `|` the gender of science |
+wednesday 22 | 2 `|` a politics of things |
+thursday 23 | 3 `|` rethinking expertise |
+friday 24 | 4 `|` environmental social sciences |
 
 the lectures are taught in english; slides are uploaded every day
 
@@ -27,10 +27,11 @@ during the four afternoon sessions, you will work on some of the following thema
 [star wars](/resources/science-and-society-star-wars-en.pdf) | revolutions in astronomy and politics in the 19th-century | en |
 [les controverses du glyphosate](/resources/science-and-society-glyphosate-fr.pdf) | une enquête sur la production d’expertise des risques dans l’ue | fr |
 [la guerre des étoiles](/resources/science-and-society-star-wars-fr.pdf) | révolutions politiques et astronomiques au 19e siècle | fr |
+[vivre avec le sida](/resources/science-and-society-sida-fr.pdf] | des luttes menées sur le terrain du savoir | fr |
 
 ## past exams |
 
-this year exam will take place on saturday 25, from 10am to 12pm
+this year exam will take place on friday 23
 
 year | topic a (en) | topic b (fr) |
 [2025 exam](/resources/2025-science-and-society-exam.pdf) | should we care about transgender athletes’ performance? | est-il pertinent de recenser où nos parents sont nés ? |
