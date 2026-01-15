@@ -31,7 +31,7 @@ during the four afternoon sessions, you will work on some of the following thema
 
 ## past exams |
 
-this year exam will take place on friday 23
+this year exam will take place on friday 23, from 8.30 to 11.30am
 
 year | topic a (en) | topic b (fr) |
 [2025 exam](/resources/2025-science-and-society-exam.pdf) | should we care about transgender athletes’ performance? | est-il pertinent de recenser où nos parents sont nés ? |
