@@ -34,6 +34,7 @@ during the four afternoon sessions, you will work on some of the following thema
 this year exam will take place on friday 23, from 8.30 to 11.30am
 
 year | topic a (en) | topic b (fr) |
+[2026 exam](/resources/2026-science-and-society-exam.pdf) | is it accurate to describe obesity as an epidemic? | quel sens donner aux rétractations d’articles scientifiques ? |
 [2025 exam](/resources/2025-science-and-society-exam.pdf) | should we care about transgender athletes’ performance? | est-il pertinent de recenser où nos parents sont nés ? |
 [2024 exam](/resources/2024-science-and-society-exam.pdf) | is long covid a thing? | une retenue éthique d'eau est-elle possible ? |
 [2023 exam](/resources/2023-science-and-society-exam.pdf) | are women the fairer sex? | protéger 30% de la planète d'ici 2030 |
